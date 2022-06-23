@@ -1,0 +1,9 @@
+# train and val data
+
+train : ../dataset/images/train/
+val : ../dataset/images/val/
+
+# number of classes
+nc = 10
+
+names = ['Truck','Car','Bike','Traffic Light','Traffic Sign','Building','SignBoard','Advertising Board','Pickup','Signs']

@@ -1,0 +1,10 @@
+Truck
+Car
+Bike
+Traffic Light
+Traffic Sign
+Building
+SignBoard
+Advertising Board
+Pickup
+Signs
